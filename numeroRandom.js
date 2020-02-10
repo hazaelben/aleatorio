@@ -15,6 +15,6 @@ do {
     }
 
 }
-while (NumAlea == NumUsu) {
+while (NumAlea != NumUsu) {
     alert("El numero ingresado Es incorrecto, vuelva a intentarlo correcto")
 }
